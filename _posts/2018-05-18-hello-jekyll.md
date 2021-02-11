@@ -4,7 +4,7 @@ title: 'Hello Jekyll'
 date: 2017-04-18
 author: Jekyll
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/63d9f2d3572c11df40c9b4f4622762d0f603c2c9.jpg'
 tags: jekyll
 ---
 
